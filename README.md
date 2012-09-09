@@ -7,3 +7,4 @@ LibXJDBC is a Java Library that lets you get more effective SQL query with fewer
 
 Twitter:
 @cchacon_sartori
+2011-2012
